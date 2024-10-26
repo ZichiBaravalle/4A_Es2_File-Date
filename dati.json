@@ -1,0 +1,17 @@
+[
+    {
+        "materia":"ITALIANO",
+        "inizio":"2024-10-28 10:45",
+        "fine":"2024-10-28 11:40" 
+    },
+    {
+        "materia":"TPSIT",
+        "inizio":"2024-10-29 09:45",
+        "fine":"2024-10-28 10:35" 
+    },
+    {
+        "materia":"TELECOMUNICAZIONI",
+        "inizio":"2024-10-30 09:45",
+        "fine":"2024-10-30 11:40" 
+    }
+]
