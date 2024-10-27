@@ -1,0 +1,182 @@
+[
+    {
+        "materia": "INFORMATICA",
+        "inizio": "2024-11-18 07:55",
+        "fine": "2024-11-18 08:50"
+    },
+    {
+        "materia": "INFORMATICA",
+        "inizio": "2024-11-18 08:50",
+        "fine": "2024-11-18 09:45"
+    },
+    {
+        "materia": "LINGUA INGLESE",
+        "inizio": "2024-11-18 09:45",
+        "fine": "2024-11-18 10:45"
+    },
+    {
+        "materia": "LINGUA e LETTERATURA ITALIANA",
+        "inizio": "2024-11-18 10:45",
+        "fine": "2024-11-18 11:40"
+    },
+    {
+        "materia": "LINGUA e LETTERATURA ITALIANA",
+        "inizio": "2024-11-18 11:40",
+        "fine": "2024-11-18 12:30"
+    },
+    {
+        "materia": "RELIGIONE",
+        "inizio": "2024-11-18 12:30",
+        "fine": "2024-11-18 13:25"
+    },
+    {
+        "materia": "MATEMATICA e COMPLEMENTI",
+        "inizio": "2024-11-19 07:55",
+        "fine": "2024-11-19 08:50"
+    },
+    {
+        "materia": "MATEMATICA e COMPLEMENTI",
+        "inizio": "2024-11-19 08:50",
+        "fine": "2024-11-19 09:45"
+    },
+    {
+        "materia": "TPSIT",
+        "inizio": "2024-11-19 09:45",
+        "fine": "2024-11-19 10:45"
+    },
+    {
+        "materia": "LINGUA INGLESE",
+        "inizio": "2024-11-19 10:45",
+        "fine": "2024-11-19 11:40"
+    },
+    {
+        "materia": "STORIA",
+        "inizio": "2024-11-19 11:40",
+        "fine": "2024-11-19 12:30"
+    },
+    {
+        "materia": "LINGUA e LETTERATURA ITALIANA",
+        "inizio": "2024-11-19 12:30",
+        "fine": "2024-11-19 13:25"
+    },
+    {
+        "materia": "SISTEMI e RETI",
+        "inizio": "2024-11-20 07:55",
+        "fine": "2024-11-20 08:50"
+    },
+    {
+        "materia": "SISTEMI e RETI",
+        "inizio": "2024-11-20 08:50",
+        "fine": "2024-11-20 09:45"
+    },
+    {
+        "materia": "INFORMATICA",
+        "inizio": "2024-11-20 09:45",
+        "fine": "2024-11-20 10:45"
+    },
+    {
+        "materia": "INFORMATICA",
+        "inizio": "2024-11-20 10:45",
+        "fine": "2024-11-20 11:40"
+    },
+    {
+        "materia": "TPSIT",
+        "inizio": "2024-11-20 11:40",
+        "fine": "2024-11-20 12:30"
+    },
+    {
+        "materia": "INFORMATICA",
+        "inizio": "2024-11-23 09:45",
+        "fine": "2024-11-23 10:45"
+    },
+    {
+        "materia": "INFORMATICA",
+        "inizio": "2024-11-23 10:45",
+        "fine": "2024-11-23 11:40"
+    },
+    {
+        "materia": "SCIENZE MOTORIE e SPORTIVE",
+        "inizio": "2024-11-23 11:40",
+        "fine": "2024-11-23 12:30"
+    },
+    {
+        "materia": "SCIENZE MOTORIE e SPORTIVE",
+        "inizio": "2024-11-23 12:30",
+        "fine": "2024-11-23 13:25"
+    },
+    {
+        "materia": "TELECOMUNICAZIONI",
+        "inizio": "2024-11-20 12:30",
+        "fine": "2024-11-20 13:25"
+    },
+    {
+        "materia": "LINGUA e LETTERATURA ITALIANA",
+        "inizio": "2024-11-21 07:55",
+        "fine": "2024-11-21 08:50"
+    },
+    {
+        "materia": "LINGUA e LETTERATURA ITALIANA",
+        "inizio": "2024-11-21 08:50",
+        "fine": "2024-11-21 09:45"
+    },
+    {
+        "materia": "TELECOMUNICAZIONI",
+        "inizio": "2024-11-21 09:45",
+        "fine": "2024-11-21 10:45"
+    },
+    {
+        "materia": "TELECOMUNICAZIONI",
+        "inizio": "2024-11-21 10:45",
+        "fine": "2024-11-21 11:40"
+    },
+    {
+        "materia": "TPSIT",
+        "inizio": "2024-11-21 11:40",
+        "fine": "2024-11-21 12:30"
+    },
+    {
+        "materia": "TPSIT",
+        "inizio": "2024-11-21 12:30",
+        "fine": "2024-11-21 13:25"
+    },
+    {
+        "materia": "MATEMATICA e COMPLEMENTI",
+        "inizio": "2024-11-22 07:55",
+        "fine": "2024-11-22 08:50"
+    },
+    {
+        "materia": "SISTEMI e RETI",
+        "inizio": "2024-11-22 08:50",
+        "fine": "2024-11-22 09:45"
+    },
+    {
+        "materia": "SISTEMI e RETI",
+        "inizio": "2024-11-22 09:45",
+        "fine": "2024-11-22 10:45"
+    },
+    {
+        "materia": "LINGUA INGLESE",
+        "inizio": "2024-11-22 10:45",
+        "fine": "2024-11-22 11:40"
+    },
+    {
+        "materia": "STORIA",
+        "inizio": "2024-11-22 11:40",
+        "fine": "2024-11-22 12:30"
+    },
+    {
+        "materia": "LINGUA e LETTERATURA ITALIANA",
+        "inizio": "2024-11-22 12:30",
+        "fine": "2024-11-22 13:25"
+    },
+    {
+        "materia": "MATEMATICA e COMPLEMENTI",
+        "inizio": "2024-11-23 07:55",
+        "fine": "2024-11-23 08:50"
+    },
+    {
+        "materia": "INFORMATICA",
+        "inizio": "2024-11-23 08:50",
+        "fine": "2024-11-23 09:45"
+    }
+]
